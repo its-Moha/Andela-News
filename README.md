@@ -4,19 +4,20 @@ My Google Africa Developer Scholarship Community Project app
 
 # 📲Features
 
-⚪️ User permission on runtime installation : example internet permission
-⚪️ Layouts Using material design guidelines
-⚪️ Navigation: (utilize Jetpack) . 
-⚪️ Navigation- Optional(utilize ViewModel + LiveData)- [UI updates] 
-⚪️ Android LifeCycle
-⚪️ Internet: using coroutines to get your data to avoid latency blocking.
-⚪️ Backend-connection: using Retrofit and REST
-⚪️ Loading on UI: deffutil and animations for better sliding inside the app 
-⚪️ WorkManager
-⚪️ Paggination
-⚪️ Database using Roomdatabase
-⚪️ Data persistence:  using Room 
-⚪️ news api
+⚪️ User permission on runtime installation : example internet permission\
+⚪️ Layouts Using material design guidelines\
+⚪️ Navigation: utilized Jetpack to go go through different fragments of the app\
+⚪️ Navigation- using ViewModel + LiveData\
+⚪️ Android LifeCycle\
+⚪️ Internet: using coroutines to get your data to avoid latency blocking\
+⚪️ Backend-connection: using Retrofit and REST\
+⚪️ Loading on UI: deffutil and animations for better sliding inside the app \
+⚪️ WorkManager\
+⚪️ Paggination dividing a document into discrete pages\
+⚪️ Custom Loading Animation ProgressBar\
+⚪️ Database using Roomdatabase\
+⚪️ Data persistence:  using Room\
+⚪️ Api: using news api 
 
 # 📷Screenshots in video/gif 
 
